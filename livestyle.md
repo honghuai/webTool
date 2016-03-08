@@ -62,8 +62,10 @@ liveStyle插件安装
 
 
 附：
-关于sublime text的安装：按 `ctrl+` `调出控制台，前往 <a href="https://packagecontrol.io/installation#st2">https://packagecontrol.io/installation#st2</a> 不同版本的Python代码，重启，完成安装；
+关于sublime text的安装：按  ctrl+`  调出控制台，前往 <a href="https://packagecontrol.io/installation#st2">	`https://packagecontrol.io/installation#st2`</a> 不同版本的Python代码，重启，完成安装；
+
 然后`ctrl+shift+P` 输入`install package` 按回车键安装，重启；
+
 最后 安装livestyle：
 `ctrl+shift+P`
 

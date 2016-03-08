@@ -67,6 +67,8 @@ liveStyle插件安装
 然后`ctrl+shift+P` 输入`install package` 按回车键安装，重启；
 
 最后 安装livestyle：
+
+
 `ctrl+shift+P`
 
 `install package` 

@@ -71,6 +71,6 @@ liveStyle插件安装
 
 `install package` 
 
-livestyle
+`livestyle`
 
 
